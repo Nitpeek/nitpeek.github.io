@@ -1,16 +1,170 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="css/base.css" rel="stylesheet">
+  <link rel="icon" href="assets/favicon.png">
+  <title>Cours d'informatique pour débutants</title>
+</head>
+<body>
+  <header>
+    <img src="assets/nitpeek.png" alt="logo"/>
+  </header>
+  <main>
+    <h1></h1>
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <h2>Internet c'est quoi ?</h2>
+    <p>La moitié de la population mondiale utilise Internet, c'est à dire environ 4 milliards de personnes.</p>
+    <p>En France, presque 9 personnes sur 10 utilisent Internet. Et tu en fais partie, puisque cette page est sur Internet !</p>
 
-    <title>Hello, world!</title>
-  </head>
-  <body>
-    <h1>Hello, world!</h1>
-  </body>
+    <img src="assets/onInternet.jpg" alt="Cette page est sur Internet">
+
+    <p>
+      Internet est fait d'ordinateurs, comme le tien, connectés entre eux par des cables.
+      Souvent la box est branchée au cable, et les ordinateurs se connectent à la box sans fil, par Wi-Fi.
+      Le fonctionnement est le même que si ton ordinateur est directement branché au cable, mais c'est plus pratique.
+    </p>
+
+    <h2>Et un site Internet ça marche comment ?</h2>
+    <p>
+      Prenons le site <i class="domain">nitpeek.com</i> comme exemple. Ce site, c'est moi qui l'ai créé.
+      Il est constitué de plusieurs fichiers que j'ai écrit. Tous ces fichiers sont sur mon ordinateur, connecté
+      à Internet.
+    </p>
+    
+    <img src="assets/computer.jpg" alt="ordinateur">
+
+    <p>Il y a par exemple le fichier <i class="file">hello.txt</i>, qui contient juste le mot "hello".</p>
+
+    <img src="assets/helloTxt.jpg" alt="Le fichier hellot.txt">
+
+    <p>Ce fichier est accessible sur Internet, il suffit de le demander à mon ordinateur.</p>
+    
+    <p class="question">Mais comment je le trouve parmi tous les ordinateurs du monde ?</p>
+    <p>
+      En fait, c'est très simple. Pour s'y retrouver sur Internet, comme dans la rue, on utilise des addresses.
+      L'addresse de mon ordinateur, et bien c'est tout simplement <i class="domain">nitpeek.com</i>.
+    </p>
+    <p>Pour demander un fichier, on rajoute son nom à la fin de l'addresse comme ça :</p>
+    <div class="url"><i class="domain">nitpeek.com</i><i class="file">/hello.txt</i></div>
+
+    <p class="question">Et comment je demande le fichier hello.txt à l'ordinateur ?</p>
+    <p>
+      Pour demander des fichiers sur Internet, on peut utiliser un navigateur, comme <i class="browser-name">Google Chrome</i>.
+      D'ailleurs, c'est ce que tu as fait pour lire cette page.
+    </p>
+    <p>On tape <em>l'adresse</em> du fichier dans la barre <em>d'adresse</em> du navigateur.</p>
+
+    <img src="assets/addressBar.jpg" alt="Barre d'adresse">
+
+    <p>Essaie dans un nouvel onglet ! Tape l'adresse du fichier <i class="domain">nitpeek.com</i><i class="file">/hello.txt</i>.</p>
+      
+    <p>
+      Ton ordinateur trouve le mien grâce à l'adresse <i class="domain">nitpeek.com</i>, et lui demande le fichier <i class="file">hello.txt</i>.
+      Mon ordinateur répond en envoyant le fichier <i class="file">hello.txt</i>.
+    </p>
+      
+    <img src="assets/serveFile.jpg" alt="Serveur">
+    
+    <p>Puis, ton ordinateur reçoit le fichier, et le navigateur l'affiche pour que tu puisses le lire.</p>
+
+    <p class="question">Tu as tapé <i class="domain">nitpeek.com</i><i class="file">/hello.txt</i> et vérifié que tu voyais bien le fichier ?</p>
+    <div class="choice">
+      <button>Oui</button>
+      <button>Non</button>
+    </div>
+
+    <p>Il y a un autre fichier à l'adresse <i class="domain">nitpeek.com</i>. Il s'appelle <i class="file">secret.txt</i> et contient un mot secret.</p>
+
+    <!-- Aide -->
+    <p>Affiche le fichier dans ton navigateur et copie ce qui y est écrit.</p>
+    <!-- Encore plus d'aide -->
+    <p>Tape <i class="domain">nitpeek.com</i><i class="file">/secret.txt</i> dans la barre d'adresse pour voir le fichier <i class="file">secret.txt</i>.</p>
+    <p class="question">Quel est le mot secret contenu dans le fichier <i class="file">secret.txt</i> ?</p>
+    <div class="answer">
+      <input type="text">
+    </div>
+
+    <p>Bravo ! Si tu ne sait pas ce que ça veut dire, je te conseille de taper <em>askew</em> dans Google.</p>
+
+    <h2>Et si on créait une nouvelle page Web ?</h2>
+
+    <p>
+      Une page sur Internet c'est donc un fichier sur un autre ordinateur, qui s'affiche dans ton navigateur.
+      Ces pages forment des site Internet, et tous ces sites et pages forment le Web. Je suis sûr que tu as déjà entendu parler du Web.
+    </p>
+
+    <p class="question">Donc en fait le Web et Internet c'est pareil ?</p>
+
+    <p>Eh bien, non !</p>
+    <p>
+      Internet c'est le réseau qui relie des centaines de millions d'appareils, comme les ordinateurs. Il permet aux ordinateurs de communiquer entre eux, pour s'envoyer des
+      fichiers par exemple.
+    </p>
+    <p>
+      Le Web c'est l'ensemble des sites et des pages qu'on peut voir dans son navigateur. Les pages sont des fichiers sur des ordinateurs connectés à Internet.
+      Donc le Web est sur Internet.
+    </p>
+
+    <p>
+      Internet c'est un peu comme la Poste. Et le Web c'est les magazines que tu reçois par la Poste. C'est vrai que sans la Poste tu ne pourrais pas les lire,
+      mais c'est quand même assez différent. On peut recevoir plein d'autres choses que des magazines par la Poste, et on peut aussi en envoyer.
+    </p>
+
+    <p class="question">Mais il n'y a que le Web sur Internet ?</p>
+
+    <p>Encore non.</p>
+    <p>
+      Les mails passent aussi par Internet. Les jeux multijoueurs, sur PC ou sur console aussi. Les applications iPhone ou Android aussi utilisent
+      Internet en général. Si tu fais quelque chose sur ton ordinateur ou ton téléphone, et que quelqu'un d'autre peut le voir sur le sien, c'est passé par Internet.
+    </p>
+
+    <p class="question">Et donc on la fait cette page Web ?</p>
+
+    <p>Cette fois, oui !</p>
+
+    <p>
+      J'ai créé un fichier pour toi sur mon ordinateur. Plus bas, tu vas trouver un petit éditeur de texte, pour écrire ce que tu veux, et sauvegarder le fichier sur mon ordinateur.
+      Ensuite, tu pourras y accéder par Internet à l'adresse <i class="domain">nitpeek.com</i> (c'est l'adresse de mon ordinateur).
+    </p>
+
+    <p>Ton fichier s'appelle <i class="file">mon-fichier.html</i>.</p>
+      
+    <p class="question">.html ??? Pourquoi pas .txt ? C'est pas du texte ?</p>
+
+    <p>
+      Si si ! C'est du texte. Sur le Web ou utilise plutôt des noms en <i class="file">.html</i> que <i class="file">.txt</i>.
+      C'est quand même du texte à l'interieur, mais ça dit à ton navigateur que c'est du texte fait pour le Web.
+    </p>
+    <p>
+      Quand tu demandes un fichier <i class="file">.txt</i> à ton navigateur, il ne sait pas vraiment pourquoi tu veux ce fichier.
+      La plupart des navigateurs vont afficher le texte, mais certains vont plutôt le télécharger dans ton dossier Téléchargements.
+    </p>
+    <p>Pour un fichier <i class="file">.html</i>, le navigateur est sûr : c'est une page web, donc tu veux l'afficher.</p>
+    <p>Ne t'en fais pas, on reparlera longuement du <i class="file">.html</i>. C'est la base du Web.</p>
+
+    <h2>C'est parti ! Code ta première page Web</h2>
+
+    <p>Saisi le texte que tu souhaites dans l'éditeur, et clique sur sauvegarder pour l'envoyer sur <i class="domain">nitpeek.com</i>.</p>
+
+    <div class="editor-network">
+      <img src="assets/editor.jpg" alt="">
+      <img class="editor-network-file" id="mon-fichier-editor-network-file" src="assets/file.png" alt="">
+      <img class="editor-network-file" src="assets/file.png" alt="">
+      <img class="editor-network-file editor-network-file-uploaded" src="assets/file.png" alt="">
+    </div>
+
+    <div class="file-editor">
+      <textarea id="mon-fichier" rows="10" placeholder="Saisi ton texte"></textarea>
+      <button id="mon-fichier-upload">Sauvegarder</button>
+    </div>
+
+    <!-- <h2>Comment fonctionne Internet ?</h2> -->
+
+  </main>
+  <footer></footer>
+</body>
+<script src="js/main.js"></script>
 </html>
