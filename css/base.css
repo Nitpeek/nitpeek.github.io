@@ -1,11 +1,19 @@
 @charset "UTF-8";
 /* Constants ************* */
-.bold, .question, a {
+.bold, .question, a, .spoiler {
   font-weight: 600;
 }
 
 .monospace, h2 {
   font-family: "Courier New", Courier, monospace;
+}
+
+.hidden {
+  display: none;
+}
+
+.pointer, .spoiler {
+  cursor: pointer;
 }
 
 /* General *************** */
@@ -49,7 +57,7 @@ h2 {
   border-radius: 3px;
 }
 
-a {
+a, .spoiler {
   color: #64b5f6;
   text-decoration: none;
 }
@@ -113,8 +121,17 @@ button:hover {
   width: 100%;
 }
 
+.achievement {
+  font-size: larger;
+  background-color: #ffeb3b;
+  padding: 8px;
+  border-radius: 8px;
+  text-align: center;
+}
+
 .file-editor {
-  width: 50%;
+  width: 100%;
+  max-width: 400px;
 }
 .file-editor textarea {
   resize: none;
@@ -139,6 +156,10 @@ button:hover {
 .editor-network-file-uploaded {
   left: 62%;
   transition: left 2s ease-in;
+}
+
+.spoiler {
+  font-size: smaller;
 }
 
 /* Font Awesome ********** */

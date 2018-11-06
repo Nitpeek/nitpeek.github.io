@@ -48,7 +48,45 @@ function editMonFichier() {
     document.getElementById('mon-fichier-editor-network-file').classList.remove('editor-network-file-uploaded');
 }
 
-insertBrowerNameInDOM();
-downloadMonFichier();
-document.getElementById('mon-fichier-upload').onclick = uploadMonFichier;
-document.getElementById('mon-fichier').oninput = editMonFichier;
+function initSpoilers() {
+    var spoilers = document.getElementsByClassName('spoiler');
+    Array.prototype.forEach.call(spoilers, function(spoiler) {
+        spoiler.onclick = function() {
+            document.getElementById(spoiler.dataset.body).classList.remove('hidden');
+        }
+    });
+}
+
+function initChoices() {
+    var choices = document.getElementsByClassName('choice');
+    Array.prototype.forEach.call(choices, function(choice) {
+        var answer = document.getElementById(choice.dataset.answer);
+        answer.onclick = function() {
+            document.getElementById(choice.dataset.onSuccess).classList.remove('hidden');
+        }
+    });
+}
+
+function initAnswers() {
+    var answers = document.getElementsByClassName('answer');
+    Array.prototype.forEach.call(answers, function(answer) {
+        var input = answer.getElementsByTagName('input')[0];
+        input.oninput = function() {
+            if(input.value === answer.dataset.answer) {
+                document.getElementById(answer.dataset.onSuccess).classList.remove('hidden');
+            }
+        }
+    });
+}
+
+function initDOM() {
+    insertBrowerNameInDOM();
+    downloadMonFichier();
+    document.getElementById('mon-fichier-upload').onclick = uploadMonFichier;
+    document.getElementById('mon-fichier').oninput = editMonFichier;
+    initSpoilers();
+    initChoices();
+    initAnswers();
+}
+
+initDOM();

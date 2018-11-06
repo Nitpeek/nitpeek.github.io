@@ -22,10 +22,25 @@
     <img src="assets/onInternet.jpg" alt="Cette page est sur Internet">
 
     <p>
-      Internet est fait d'ordinateurs, comme le tien, connectés entre eux par des cables.
-      Souvent la box est branchée au cable, et les ordinateurs se connectent à la box sans fil, par Wi-Fi.
-      Le fonctionnement est le même que si ton ordinateur est directement branché au cable, mais c'est plus pratique.
+      Internet est fait d'ordinateurs, comme le tien, connectés par des câbles.
+      Au début, en 1969, il y avait 4 ordinateurs connectés entre eux. Ces ordinateurs se situaient dans 4 universités aux États-Unis. 
     </p>
+
+    <p>
+      Maintenant, Internet est constitué de plusieurs centaines de millions d'appareils.
+      Il y a des ordinateurs bien sûr, mais aussi des téléphones, des consoles de jeu, et plein d'autres appareils <em>connectés</em>.
+    </p>
+
+    <p>
+      Un ensemble d'éléments reliés les uns aux autres est appelé un réseau. Internet est donc un réseau, comme le réseau routier, le réseau
+      ferroviaire, ou le réseau d'eau courante.
+    </p>
+
+    <p>
+      Chez toi, tu as sûrement une box qui est branchée au reste du réseau par un câble. Les ordinateurs se connectent à la box sans fil, par Wi-Fi.
+      Le fonctionnement est le même que si ton ordinateur était directement branché au câble, mais c'est plus pratique.
+    </p>
+    <img src="assets/wifi.jpg" alt="Le WiFi">
 
     <h2>Et un site Internet ça marche comment ?</h2>
     <p>
@@ -71,23 +86,28 @@
     <p>Puis, ton ordinateur reçoit le fichier, et le navigateur l'affiche pour que tu puisses le lire.</p>
 
     <p class="question">Tu as tapé <i class="domain">nitpeek.com</i><i class="file">/hello.txt</i> et vérifié que tu voyais bien le fichier ?</p>
-    <div class="choice">
-      <button>Oui</button>
+    <div class="choice" data-answer="choice-1-answer" data-on-success="hello-found">
+      <button id="choice-1-answer">Oui</button>
       <button>Non</button>
     </div>
 
+    <p class="hidden achievement" id="hello-found">Bravo :) Plutôt simple non ?</p>
+
     <p>Il y a un autre fichier à l'adresse <i class="domain">nitpeek.com</i>. Il s'appelle <i class="file">secret.txt</i> et contient un mot secret.</p>
 
-    <!-- Aide -->
-    <p>Affiche le fichier dans ton navigateur et copie ce qui y est écrit.</p>
-    <!-- Encore plus d'aide -->
-    <p>Tape <i class="domain">nitpeek.com</i><i class="file">/secret.txt</i> dans la barre d'adresse pour voir le fichier <i class="file">secret.txt</i>.</p>
     <p class="question">Quel est le mot secret contenu dans le fichier <i class="file">secret.txt</i> ?</p>
-    <div class="answer">
+    <div class="answer" data-answer="askew" data-on-success="askew-found">
       <input type="text">
     </div>
 
-    <p>Bravo ! Si tu ne sait pas ce que ça veut dire, je te conseille de taper <em>askew</em> dans Google.</p>
+    <p class="spoiler" data-body="secret-help-1">Un indice ?</p>
+    <div class="hidden" id="secret-help-1">
+      <p>Affiche le fichier dans ton navigateur et copie ce qui y est écrit.</p>
+      <p class="spoiler" data-body="secret-help-2">Un autre indice !</p>
+      <p class="hidden" id="secret-help-2">Tape <i class="domain">nitpeek.com</i><i class="file">/secret.txt</i> dans la barre d'adresse pour voir le fichier <i class="file">secret.txt</i>.</p>
+    </div>
+        
+    <p class="hidden achievement" id="askew-found">Bravo ! Si tu ne sais pas ce que ça veut dire, je te conseille de taper <em>askew</em> dans Google.</p>
 
     <h2>Et si on créait une nouvelle page Web ?</h2>
 
@@ -100,18 +120,22 @@
 
     <p>Eh bien, non !</p>
     <p>
-      Internet c'est le réseau qui relie des centaines de millions d'appareils, comme les ordinateurs. Il permet aux ordinateurs de communiquer entre eux, pour s'envoyer des
+      Internet c'est le réseau qui relie des centaines de millions d'appareils, comme des ordinateurs. Il permet aux ordinateurs de communiquer entre eux, pour s'envoyer des
       fichiers par exemple.
     </p>
+    <img src="assets/interenet.jpg" alt="Schéma d'internet">
+
     <p>
       Le Web c'est l'ensemble des sites et des pages qu'on peut voir dans son navigateur. Les pages sont des fichiers sur des ordinateurs connectés à Internet.
-      Donc le Web est sur Internet.
+      Donc le Web fonctionne grâce à Internet.
     </p>
+    <img src="assets/web.jpg" alt="Navigateur Web">
 
     <p>
       Internet c'est un peu comme la Poste. Et le Web c'est les magazines que tu reçois par la Poste. C'est vrai que sans la Poste tu ne pourrais pas les lire,
       mais c'est quand même assez différent. On peut recevoir plein d'autres choses que des magazines par la Poste, et on peut aussi en envoyer.
     </p>
+    <img src="assets/laPoste.jpg" alt="Schéma de la Poste">
 
     <p class="question">Mais il n'y a que le Web sur Internet ?</p>
 
@@ -160,6 +184,9 @@
       <textarea id="mon-fichier" rows="10" placeholder="Saisi ton texte"></textarea>
       <button id="mon-fichier-upload">Sauvegarder</button>
     </div>
+
+    <p>Après l'avoir sauvegardée, tu peux consulter ta page à l'adresse :</p>
+    <div class="url"><i class="domain">nitpeek.com</i><i class="file">/mon-fichier.html</i></div>
 
     <!-- <h2>Comment fonctionne Internet ?</h2> -->
 

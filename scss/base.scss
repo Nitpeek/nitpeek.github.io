@@ -7,6 +7,7 @@ $secondaryLight: #ffff72;
 $secondaryDark: #c8b900;
 $grey: #90a4ae;
 
+$mainWidth: 800px;
 $spacing: 8px;
 $padding: $spacing;
 $margin: $spacing / 2;
@@ -21,6 +22,14 @@ $secondaryBorder: 3px $secondary solid;
 
 .monospace {
   font-family: 'Courier New', Courier, monospace;
+}
+
+.hidden {
+  display: none;
+}
+
+.pointer {
+  cursor: pointer;
 }
 
 /* General *************** */
@@ -48,7 +57,7 @@ footer {
 }
 
 main {
-  max-width: 800px;
+  max-width: $mainWidth;
   margin: 0px auto;
   padding: 0px $padding;
   text-align: justify;
@@ -135,8 +144,17 @@ button {
   }
 }
 
+.achievement {
+  font-size: larger;
+  background-color: $secondary;
+  padding: $padding;
+  border-radius: $bigRadius;
+  text-align: center;
+}
+
 .file-editor {
-  width: 50%;
+  width: 100%;
+  max-width: $mainWidth / 2;
 
   textarea {
     @extend input;
@@ -164,6 +182,12 @@ button {
       transition: left 2s ease-in;
     }
   }
+}
+
+.spoiler {
+  @extend a;
+  @extend .pointer;
+  font-size: smaller;
 }
 
 /* Font Awesome ********** */

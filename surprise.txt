@@ -1,0 +1,60 @@
+      IMQQMMQQQO6I|!|!^!^^^!^^^..^.^^^^!I|!^!^^.. . ... . ............... . .......^....^..^......^.^^^^^!^|..^..^!!^!!!
+      6MMQMQMQOO6I||!|!^^!!^^^^^^.^.^.^!!I^^.|... .. . . .. ... . ......... ...^...^.....^.^.....^.^^.^^^!!|^ ...^!^^!|^
+     ^OQMQQMQO6I|I||||!!!!^^.^^..^.^.^.^!!I^^!......... .... ...... ....^.......^^...^..^......^..^.^^^^^^^!|.!..!!^^|!!
+     ^OMQQQQ6|II|!|!||!!!^^^^^.^!^!!!^^^^!^I^^|^^^^.^^^.^^.^^^.^^.. ^.^.^..^.^^^^^^^^^.^.^^..^^^.^^..^^^^^!!|.!.^!!^^|!!
+     .QOOI||I||||!!!!!||^^.^!|||III|I||||II|I|6|!!!!!|!!!!^!^^!!^!^^^^.^^^^^.^^^!!^|!!^^^^^!^^^^^^^^^^!!!|^!!.!..!^^^|^^
+     .OII||!||!|!!!!!|||!!!|6I666II66O6OO6OQQMQQOOOOOO6OIII!|||||||!^!!^!^^!!!!!!|||||!!!||!|!!!!!|I|II6OQQ6|....!.^.!^!
+     .6|!!!!||!!!!|!|!|I66OOQOOOQOOI666OQMMMMMMMMMQMMMMMQOO66I6I|II||!^!!^!!|!!|||II||IIIIOOOQQOQMQQQQO666QQI.^ .^..^I^!
+    ..|^!^!!!|!!!|!|||I6OQQQQOQ6OOQOO6OOOQMMMQMMMMMQMMMMMMQQQOO6O666||!!||||I|II|I6IOOMQQMMQMMMQMMQOOO66I6OOQ!! ^^...|!^
+     .^|^!!^!|!||!|||I6QOOQQQQOOOOQ6OO6O6IOOOMMMMMMMMMMMMMMMMMMMQO6III|!||!|II6II66QQMQMMMQMMQMMMQOII||II6I6Q|I.^!.^^!^^
+    .  |^^!!!!!|!|||IOQQQOQQQQQOO6OOOQOQOOQMQMMMMMMMQOQOMQMMQMMQMQI!!^.^^!|!!IOOQQMMMMQO6666OQ6I|!||||||6II66.! .^..^!^!
+     . ^!^!^!!!!|I6OOQOOQQQQQOQMMMMMMMMMMQQQO6OOMMQMQMQMMQQQMMOO6I||^^^.^^^!!6QQQMO6IIII66OOOQOO66I66OOOO66O6.! ^^..^|^!
+    .. ^!!!!!||||IOOQOOQQQQMMQMMQMMQO6I|^^...^^!QMMMMMMMMMMMMQ666I|^^.^..^^^!IQMQO6OOMMMMQMMQ6OQMMQMMQMMMMMMO ! !^..^|^^
+    ... !!^^!!!||I6QQQOQQQQQQQQQOO66I|!^^.....^OMMMMMM6O|!!IOOII6I|!^^^.^.^^^IMQQMQ66QMO|!!!!^^^IMMMQMMMMQMMO.! ^^..^|!^
+     .. ^^!!^!!!!|!||I6III||!!!^^!!^^..^^!^|!!!|I|I|!!!!I|!|IIII||!!^^.^..^.^!!!^|66II||^^^^.^..OQMMOMQMMMMMO |.^!..^|^!
+    .    ^^!!!!||!!^^^^!|!!!!!^^^^^.^^^^^^^.^^!!!||6|III|!I!|I||!!!^^^.^.^.^^^!|^..^!^^^!|!|!!I66I||!|!!OO6QI ! .!.^^|^!
+    .    ^!!!^!.^^^^^^^^^^|!!!||||I||!!|!!!!|!|II66I6I|!!^^||!!!^!!^^^^.^.^.^^^!!!!!|!^^!^!^!^^^^^^!^^!|II|I^.! ^^..^!^!
+   .    ..^^^^^^.^^.!!|!^^....^.^^|II|I|||!|||II||!!^^!^^^!!!|^!!^!!^!^^^..^^^^!!^!^!||||I|!||!|||II||6!^!^|..! .^.^!!^!
+   .    ..^^!^^^^^^^!^^^...^...  .. ....^^.^.^^^^..^.^^^^^!^!^^^^!!|!^^^......^^!^^^^^^!IOQO6O6O66I|^^..^^^I. ^ ^...!!^!
+   .   .^^^!!!^^!!^^^^.^^^...... . ....... ..^........^^^^^!!!!!^^!!!^^.^^......^!^^^^^.^..^^^^^^^......^^^!. ..^^..!|!^
+   .   .^^!!!!!^!^^^.^.^^...^..... ..   . . ..........^.^^!^!!!^!!^!!!^^........^^!!^^^..^.^...^..^....^^^!|. . !...!!^!
+   . . .^^!!!!!^^^.^..^^.^...... . ..    . . . .... ^..^^!!!!!^!!^^!^^^^... .....^!!^^^^.^.............^.^^! !^.^^..|!^^
+   .   .^!^!!!^^^.^^..^.^...^.....  .. . .   .  .....^^^^^^.^..^^!!^^^..... .. ...^^^^!!^^^...^........^.^!! ...!...|^^!
+   .   ^^^!!!|^^^^..^.^..^......... . .  . .....^^!!!^!!^^.^^....^^^^...  .... ..^^^.^.^|!!^^.^....^...^^^!. ...!...|!!^
+      .!!^^!!|^^^^.^^^.............. . ...^.!^!|IO66II!!^!^^!!!^^!||!!!^^^.^..^.^.^^.^^^^I|!!^^.^^....^..^!. ^.^^. .|!^^
+  ..  !6I!^!!!!!!^^^^..^.^^............^.^!!|IOQO66OQOI|||6QMMQMM6I6I6I|!!^!^!^^^!|||II||6OQ6||!^^^.^.^^.^^. ! ^^...|^^!
+  . .!!6I!!^^!!^^!^^^^^^^...^^..^...^.^^^!|6OQOIII|I6QMQOQQMMMMMMMQMQOO66IIII|I|I66MMQO6II6OQ6I|!!^.^.^^^^.  . .^...|^^^
+   ..^!6I!|!|!!!^^!^!^^.^^^^^.^.^.^^^!!||I6Q6||II|III6MMMMQOIII6MQMMQMMQQQQMQOOOQOQMQOQOI|!|6O6I!!^^^^^^^^.  .. ^...|^^!
+    .^I66|I!!|!!|^!^!^!!^^^!^^^^^^!^^|!66OOII||IIIIII6I66O6QQOOOQMMMMMMMMMMQMMMMMMMQMQOO||!!|666I|!!^^.^^^   ^ .....|^^!
+  ... ^66|||!||||!|!!!!^!^!!!^^!^!!!||I6O6I6IIII6I6I|6I6OI66666O66OMMMQMMMMMMMMMMMMO6II||!||!|III|!!^^^^^^   . ... .|^^^
+  . ^.^I6III||!!!|!!|!!||!!!!!!!!||II6OQO66I|IIO6O6II|6III66O66I||6OQMMMMMMMMMMMMMO66I6!|I|6|II66||!!^!^!^  .^ .^..^|.^!
+  ..^ .66III6||||!I!!|!|I||!||!!!||6OQOI6O6OII6|IO66O66666II6OO66I66OOOMMMMMMQMQOI66IOII66I666OOI||!!!!^!. . ^ ... .|^!!
+  . ..^I6I666|I|!!!||!|!|||||||!||IO6I6II6II6I6I66I6OO666I66I6I6IIIII66666I6I66IIOII6I|I6OOO66OO6II||!!!!.   . .. .^I^!!
+  . ...66I666III||!||!!||!||||||I6OI6|!II666IOII|II6I6I6I66I666I6IIII|IIIII66666O6III|||6O6OI6I6O6I|||!!|   .. ^...^O^^!
+  ... .I6I6I6II|I|!|!!|!|!!!||||IO6II66III||II|66OQOQQQQQQQQQMQQQQQQQQOQQOQQQQQMQQQO66IIII666I6IO6I|||!!I   .. ^.. ^^^!!
+  .... I666OI6IIII|^!|^!!||!!!||6O6|6II||||II6OQMQMMQ!^^||^. !|^. .^!!. ..!|. !|!.|MMQO6I|I66OOQO6I|!|!|I  . ^ ... ^^^!!
+ .... .6OO6OO6I6|||!||!|||!!!^^!OII|I|||||6QQMMMMQO6I^...^  ..^........ ..^. .^ ..|OMMMQO6IIII6QOI|!!||I!  ... ^...^!^!!
+ ...^.^6O6I666OII||I|!||!!^!^!^|I||||I66OQMMMQMMMM|!O|.^.!....^..^.^^.. ..^...^..^!MMMMMQQOOII666||!!!IO..  .. ^...^!.!^
+ ...^. IOO6O666666III|||!!!^^^^^II!||!|!|!6MMQMQOOMQQQMMQMQQO6Q^^...|....!Q66QMQQMMMMMM6|II|I|I|||!!!!IO    ^. .^..!!^!^
+ ......6OOO66O666II||I||||!^^^.^^|^^!^!!^^!MQMM66II6OOQQ66QQMMQMMMMMQMMMMMMQQQQMMMMMMMO6^!!!!||!^^^!!|6Q   .^  .. .||^!!
+ . ^.. OOQOOOOO6II6II6|I||!!^^.^!^!^^^!!^^^!QQOQOQOOOI66II|II66QMMQMQQMMQQQOQQQMMO|IQQQ|!|!|!|!!^!!||IQI  . ^  ^...!I.!!
+ ^ .^.|6OQOQOIOO6II|I|III|||^^..^!!^.^.^!!!^!^.  ...66O66III|!||||||I6O6IIIOQOI!^||!6O6!|||!!!|!!^!!IOQ!    ^  ^...!|^!!
+.^ ^^ .OQOQOQOQ6O666II|6III|!!!.^^^^^..^.^|!^^!^.  .   ..  ..  .. ..^..... .. .  ..I66|^!||!!!!^^!!|6QQ     .  ^...^|^!!
+.^.^..|OQOQOQOOQ|O66II66I6II|!|^^^^^...^.^!!|^.!^.^. . . . .!.. .^^.^...^^.^^....^!66!^!I|!^!!!^!!|IOQM|    ^  ^ ..^^.!!
+.^.^ .!OOQOQOQQQOOOO6I66I666I|I!!^^^^^..^^.^^!||^^^^...^ . .^.. .^......^^..^..^!|^|!^^!|!^!|^^^!!6QQMO .   ^  ^. .!I!^|
+...^.|IOQOOQQQQQQQQQ6666II6666I|!!^.^^^.^.^^^^!!!|!!^.^^^^^.^^^.^!^^^^.^^^^!!!^^!!!!^!|!|^!!!!^!|IOQQO6I . .^ .^..^!!!^!
+.^ ^.!OOOOQOQQQQQQQQOI666III6IOI6!^!!^^!!^..^^^!!|!!!|!^!^^.. ..  .....^^..^^^.^^!!!!!|!^^!!!^!!|6QQMMQ. . .^ .^^.^!^!!!
+^  ^.|IQOQOQQQQQQQQQQQOOO666OO66I|!!!^^^!!^.^^^|!!!!||!!!^!^.....^^^!^^^^^^^^!!^^!!!|!|!^!!^!!!||OQMQMO. . .. .^..^!!!|!
+^..^!^OQOQOQQQQQQQQQQQQOQOOOQ66I6II|!^^^^^!.^^!^^!|!||||I6||!!!!^^!^!!^.^!||I|I6I|I|!!!!^!|||II6OOQMQQ6 .  .^ .!^.^!^|!|
+^ .^!^OOQQOQQQQQQQQQQQQQQQQOQOO66O6|!||!^^^^^^.^^!!||I|!!|||II|||I|||||^!!|I||6||!||!!!^!!!|I|6OQMMQMQ|.    ^.^^..^|^!!|
+. ^^!^OOQQOQQQQQQQQQQQMQQQQOQO6QO|III|!^!!^^..^.^^!!!|!||!!||I|I|I!|IIIIII6|I||!^!!!!!^!|!I||I6MMQMMQQ|.  ..! .^..^!^|!|
+  !.^.OOQQOQQQQQQQMQMQMQMQQQMQQOOQOOOOI|!|!|!^^.^.^.^^!^!!!^!^!!!I||6II6I|I!|!!^^!!^!^^^!!!||OQMQMQMMQ!    .^.^!^.^!!!!|
+..^^.|QQOOQQQQQQQQQQQQMQQQQQMQMQQMQOO66|II!^^!^.^....^^.^^^^^!^^!I6!||!||!!!I!^!^^!!!^^!||IIOOOMMQMQM^.. ...!.^!.^!|!|I|
+. ^..6OOOQOQQQQQQQQQMQMQQMQMQMQQMQQMQMQOO6||!||!!^.^..^^...^^^^..^!^^.!!!|^^^!^!!!^!^!^^IIIOOMQMQMMQ!! .  .^! ^!^.!|!||!
+.....QQOOQOQQQQQQQQQQMQMQMQMQMQQMMQMQMQQQI666|I|!!!^.!^^^^.^.^.....^^^!^^^.^^.^^^^!!|||!IIIQMMMMQMQ|.!    ..^ !^..!|!I||
+.^. OOQOQOQQQQQQQQQQMQMMQMQMQMQMQQMMQMQQQQ6O6!IIII!!^^!^^^^^.^^^.^^.^^^^^^^!^^!!|!^!^!II6QQQMMQMQMQ| |.   ....!^..!^!|I|
+ ^.!OQOOQOQQQQQQQQQQQMQQMQMQMQMQMQQMQMQMMQQQQ6O6OO|6I||!!^^^!!||!!!!!!^^.^^!!!!!^!!||!|I!MMMMMQMQQM^ .     ^..^^^.|!|I|!
+...!OQOQOQOQQQQQQQQMQMQQQMQMQMQMMQQMMQQMQMQMQ6O6OO6666II|||!!!I|I||I!I|||!!!!|||!||II6OQMMMMMMQMQQQ^^    . . .!^.^!!||!!
+.^..OQQOQOQQQQQQQQQQQMQMQQMQMQMMQQMMQMQMQMQQMMQMQQMOO6I66OIII|II6I6I|IIII||!!|||I66O6MMMMMMQMQMQQQQ!^     .^..!^^.!!|||!
+^^^.OOQOQOQOQQQQQQQQQQQQQQQQMQMQMQMQMQMQMMQMQMQMQQMMMMQOQQO666I6I66OQOO6OQOO66OOO6QMMMMMMMMMMQMQQQ6 .  .   ^ .^...!!|||^
+.^.!OOQOQOQOOQQQQQQQQQQQQQQQQQQQMQMQMQQMQMQMMQMQMMMMMOMQQOMQMQQOQOOOOOMMQMQOMQOOQQMMMMMMMMMMQMQMQM www.segnalidivita.com
