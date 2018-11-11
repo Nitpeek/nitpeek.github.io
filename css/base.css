@@ -66,6 +66,10 @@ i {
   font-style: normal;
 }
 
+iframe {
+  width: 100%;
+}
+
 input, .file-editor textarea {
   font-size: larger;
   padding: 8px 16px;
